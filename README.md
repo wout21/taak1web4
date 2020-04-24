@@ -1,2 +1,3 @@
-# Deelopdracht 1 Seppe Lenaerts
+# Deelopdracht 1 Wout Swennen
+
 # taak1web4
